@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon SRC/index.js"
   },
-  "author": "Luis Abdiel Rivera Gayosso",
+  "author": "Abimael Maldonado Vargas",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.9",
